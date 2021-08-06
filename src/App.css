@@ -1,20 +1,20 @@
 .square {
-  width: 80px;
+  width: 120px;
   height: 80px;
   background-color: cadetblue;
   color: white;
 }
 
-.add-square,.equal-square, .subtract-square {
-  width: 80px;
-  height: 80px;
-  background-color: cornsilk;
-  color:firebrick;
-}
-
 .result {
-  width: 320px;
+  width: 260px;
   height:100px;
   background-color: grey;
+  color:white;
+}
+
+.reset {
+  width: 80px;
+  height:100px;
+  background-color: darkslategray;
   color:white;
 }
